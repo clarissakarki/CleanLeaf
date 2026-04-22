@@ -80,11 +80,10 @@ CleanLeaf operates on a B2B2C model. Institutions are the paying customers; thei
 
 | File | What it is |
 |---|---|
-| `pitch-deck.pdf` | Full slide deck — problem, solution, business model, traction |
-| `demo.mp4` | Live walkthrough of the admin dashboard and meal scan flow |
-| `research-poster.pdf` | DSG Challenge 2026 research poster |
-| `full-report.pdf` | Complete written submission with citations and technical detail |
-
+| [Slide Deck](CleanLeaf_SlidesDeck.pdf) | Full slide deck: problem, solution, business model, traction |
+| [Demo](demo.mp4) | Live walkthrough of the admin dashboard and meal scan flow |
+| [Product Poster](CleanLeaf%20Poster.pdf) | DSG Challenge 2026 research poster |
+| [Full Report](CleanLeaf_Report_DSG_Challenge_2026.pdf) | Complete written submission with citations and technical detail |
 ---
 
 ## Team
