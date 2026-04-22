@@ -75,6 +75,7 @@ CleanLeaf operates on a B2B2C model. Institutions are the paying customers; thei
 - **Phase 3 (2028+):** 500+ companies and large universities; full SDG reporting suite; global scale
 
 ---
+![CleanLeaf Research Poster](poster-preview.png)
 
 ## Files in This Repository
 
