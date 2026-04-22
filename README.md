@@ -1,6 +1,8 @@
 # CleanLeaf
 **Small Nudges. Stronger Habits. Healthier Lives.**
 
+> 📎 [Slide Deck](CleanLeaf_SlidesDeck.pdf) · [Demo](https://drive.google.com/file/d/1e6eUU4Q5htVULxVDf_g5bFewJLzu_HIp/view?usp=share_link) · [Poster](CleanLeaf%20Poster.pdf) · [Full Report](CleanLeaf_Report_DSG_Challenge_2026.pdf)
+
 CleanLeaf is an AI-powered community wellness platform for universities and workplaces. Institutions pay for it; their people benefit from it. Users receive a message on WhatsApp or Microsoft Teams, tap a link, photograph their meal, and an AI scores it instantly. No app download, no sign-up, no friction. Groups compete on leaderboards, healthy habits form, and institutions receive board-ready sustainability reports tied directly to their ESG commitments.
 
 Built for the Whitman Dean's Sustainability Challenge 2026 (2nd Place).
