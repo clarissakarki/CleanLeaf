@@ -8,6 +8,7 @@ CleanLeaf is an AI-powered community wellness platform for universities and work
 Built for the Whitman Dean's Sustainability Challenge 2026 (2nd Place).
 
 ---
+![CleanLeaf Research Poster](poster-preview.png)
 
 ## The Problem
 
@@ -77,7 +78,6 @@ CleanLeaf operates on a B2B2C model. Institutions are the paying customers; thei
 - **Phase 3 (2028+):** 500+ companies and large universities; full SDG reporting suite; global scale
 
 ---
-![CleanLeaf Research Poster](poster-preview.png)
 
 ## Team
 
