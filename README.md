@@ -26,10 +26,10 @@ The failure isn't awareness since most people know eating well matters. The fail
 
 Four steps. Twenty seconds. No new app.
 
-1. **Join a group** : your team, your sorority, your department
-2. **Snap your meal** : tap the link in your WhatsApp or Teams message, take a photo
-3. **Get your score** : AI identifies the food and scores it instantly against nutritional benchmarks
-4. **Build streaks** : stay consistent, climb the leaderboard, celebrate with your group
+1. **Join a group**: your team, your sorority, your department
+2. **Snap your meal**: tap the link in your WhatsApp or Teams message, take a photo
+3. **Get your score**: AI identifies the food and scores it instantly against nutritional benchmarks
+4. **Build streaks**: stay consistent, climb the leaderboard, celebrate with your group
 
 The social layer is the engine. When your group's rank is public, showing up stops feeling like a personal health task and starts feeling like not letting people down. That's what makes habits stick.
 
@@ -37,11 +37,11 @@ The social layer is the engine. When your group's rank is public, showing up sto
 
 ## What's In It for Employees & Students
 
-- **Zero friction** — no download, no account, no onboarding. One tap from a message they already received
-- **Instant feedback** — a nutrition score appears within seconds of photographing a meal
-- **Social accountability** — group leaderboards make healthy eating a shared experience, not a solo effort
-- **Streaks and momentum** — progress is visible, which makes continuing easier than stopping
-- **Privacy** — individual data stays private; only group-level standings are shared publicly
+- **Zero friction**: no download, no account, no onboarding. One tap from a message they already received
+- **Instant feedback**: a nutrition score appears within seconds of photographing a meal
+- **Social accountability**: group leaderboards make healthy eating a shared experience, not a solo effort
+- **Streaks and momentum**: progress is visible, which makes continuing easier than stopping
+- **Privacy**: individual data stays private; only group-level standings are shared publicly
 
 ---
 
@@ -52,8 +52,8 @@ The social layer is the engine. When your group's rank is public, showing up sto
 **Health insurance leverage.** Healthier populations file fewer claims. Because CleanLeaf tracks behavior at the *group level*, never the individual, employers can demonstrate aggregate wellness improvements to insurers without exposing any personal health data. No names, no individual records, just cohort-level trends that can support conversations about premium reductions over time.
 
 **ESG and SDG reporting.** Large institutions are now subject to mandatory sustainability disclosure requirements across the EU, UK, Canada, and parts of the United States. Every meal logged on CleanLeaf maps directly to two UN Sustainable Development Goals:
-- **SDG 3** — Good Health & Well-Being: habit formation at community scale
-- **SDG 12** — Responsible Consumption: steering communities toward less processed, lower-impact food choices
+- **SDG 3**: Good Health & Well-Being: habit formation at community scale
+- **SDG 12**: Responsible Consumption: steering communities toward less processed, lower-impact food choices
 
 The platform generates a board-ready ESG report automatically based on goals set by the institutions, turning everyday dining decisions into documented, auditable impact.
 
